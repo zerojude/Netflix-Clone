@@ -7,9 +7,7 @@
 
 # Video Walkthrough 
 
-
-https://user-images.githubusercontent.com/86411337/125038452-0bff9880-e0b3-11eb-90b6-9ac3f872dce2.mp4
-
+https://user-images.githubusercontent.com/86411337/125038860-87614a00-e0b3-11eb-8691-e05f568f76f2.mp4
 
 
 </br>
