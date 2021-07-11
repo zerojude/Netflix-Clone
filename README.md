@@ -28,7 +28,8 @@ https://user-images.githubusercontent.com/86411337/125038860-87614a00-e0b3-11eb-
    - Complex and dynamic route generation
 - [TMDB API](https://www.themoviedb.org/?language=en-US) 
    - Movie service API
-- [firebase](https://firebase.google.com/docs?gclsrc=ds&gclsrc=ds&gclid=CO63xLnM2vECFU3B1AodTgkD6A)
+- [Firebase](https://firebase.google.com/docs?gclsrc=ds&gclsrc=ds&gclid=CO63xLnM2vECFU3B1AodTgkD6A)
+   - For Handling backend of project 
 
 </br>
 
