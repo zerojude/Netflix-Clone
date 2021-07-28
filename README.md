@@ -1,6 +1,6 @@
 ## Netflix-Clone 
  #### This project is a simplified version Netflix front end and basic backend. 
- #### Project link - https://netflix-rg.web.app/
+ #### Project link - https://netflix-rg-clone.herokuapp.com/
 
 
 # Video Walkthrough 
